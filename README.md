@@ -14,9 +14,6 @@ Currently exploring more about:
 - Game development 
 - Writing cleaner and more structured code  
 
-### Contact
-- Discord: **exessz**
-
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/exessz/exessz/output/github-contribution-grid-snake-dark.svg">
