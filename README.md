@@ -7,7 +7,7 @@ Most of my projects are just for practice, experiments, and fun.
 
 ### Skills & Learning
 Languages & Tools:  
-C# · WPF · Python · Unity · NAudio
+C# · WPF · Python · Unity · NAudio · PortAudio · Avalonia UI
 
 Currently exploring more about:  
 - Audio programming  
